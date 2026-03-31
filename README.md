@@ -1,2 +1,10 @@
-# portfolio_website-
-Portfolio website build using HTML to showcase my skills and learning progress.
+# Portfolio Website
+
+This is my personal portfolio website built using HTML.
+
+It showcases:
+- My basic skills
+- My learning progress
+- Future projects
+
+This is my first version, and I will improve it over time.
